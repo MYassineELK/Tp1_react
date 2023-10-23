@@ -21,6 +21,7 @@ export default function Tp1_react() {
     
   return (
     <div ><br />
+    <center><h1>Tp1_react</h1></center><br />
     <div className='center' >
       <center><div className='col-3 ' style={{margin:"auto",width:"250px",backgroundColor:"black",height:"325px",borderRadius:"25px"}}><br />
         <center>
